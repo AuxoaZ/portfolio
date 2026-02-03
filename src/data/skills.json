@@ -1,0 +1,46 @@
+[
+  {
+    "skill": "Frontend Development",
+    "icon": "image",
+    "technologies": [
+      { "name": "React", "icon": "react" },
+      { "name": "HTML", "icon": "html5" },
+      { "name": "TypeScript", "icon": "typescript" },
+      { "name": "CSS", "icon": "css3" },
+      { "name": "CSS", "icon": "css3" },
+      { "name": "Tailwind CSS", "icon": "tailwindcss" },
+      { "name": "Material UI", "icon": "materialui" }
+    ]
+  },
+  {
+    "skill": "Backend Development",
+    "icon": "servercog",
+    "technologies": [
+      { "name": "PHP", "icon": "php" },
+      { "name": "Node.js", "icon": "nodejs" },
+      { "name": "Express.js", "icon": "expressjs" },
+      { "name": "Codeigniter", "icon": "codeigniter" }
+    ]
+  },
+  {
+    "skill": "Database Management",
+    "icon": "database",
+    "technologies": [
+      { "name": "MySQL", "icon": "mysql" },
+      { "name": "PostgreSQL", "icon": "postgresql" },
+      { "name": "MongoDB", "icon": "mongodb" }
+    ]
+  },
+  {
+    "skill": "Tools & Others",
+    "icon": "tool",
+    "technologies": [
+      { "name": "Git", "icon": "git" },
+      { "name": "GitHub", "icon": "github" },
+      { "name": "VS Code", "icon": "vscode" },
+      { "name": "Postman", "icon": "postman" },
+      { "name": "Figma", "icon": "figma" },
+      { "name": "Canva", "icon": "canva" }
+    ]
+  }
+]

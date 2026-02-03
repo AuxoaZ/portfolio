@@ -1,0 +1,77 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "desc": "Software Engineer with a passion for creating modern web experiences. A commitment to detail and quality is the top priority in every project.",
+    "cta": {
+      "viewProjects": "View Portfolio",
+      "getInTouch": "Get in Touch",
+      "downloadCV": "Download CV"
+    }
+  },
+  "about": {
+    "name": "About Me",
+    "title": "Imagining the Future, Building it in Code",
+    "descFirst": "Developing digital solutions through modern technologies and thoughtful design, with a focus on building meaningful and scalable products. I enjoy turning complex ideas into clean, functional, and intuitive digital experiences.",
+    "descSecond": "Focused on delivering optimal and efficient results with a strong emphasis on user experience and performance. A commitment to detail, quality, and continuous improvement is at the core of every project I work on.",
+    "info": {
+      "experience": "Years Experience",
+      "projects": "Completed Projects",
+      "skills": "Skills Mastered"
+    }
+  },
+  "portfolio": {
+    "name": "Portfolio",
+    "title": "Featured Projects",
+    "subtitle": "Here are some projects I've worked on, from web applications to game development.",
+    "viewGithub": "View all on GitHub →",
+    "BtnGithub": "View More Projects →",
+    "filters": {
+      "all": "All Projects",
+      "web": "Web",
+      "chatBot": "Chat Bot"
+    },
+    "items": {
+      "bribox": {
+        "title": "Bribox Sticker Generator",
+        "desc": "Bribox Sticker Generator is a web-based application I developed to automate the creation of asset stickers with QR codes, dynamic layouts, and print-ready PDF export, built with React and Tailwind CSS to streamline asset labeling and reduce manual design work."
+      },
+      "rentalLaptop": {
+        "title": "Rental Laptop",
+        "desc": "Laptop Rental Web Application is a system I built using CodeIgniter with separate user and admin pages, featuring laptop catalog browsing, cart and rental management, and an admin dashboard for managing products, orders, and inventory to streamline the rental workflow and data management."
+      },
+      "dmens": {
+        "title": "D'mens Barbershop",
+        "desc": "D'mens Barbershop is a web application I developed for a local barbershop, featuring an online booking system, service management, and customer profile management to streamline operations and improve customer experience."
+      },
+      "equatorCell": {
+        "title": "Equator Cell",
+        "desc": "Equator Cell is an e-commerce web application I built for a mobile phone retailer, featuring product listings, shopping cart functionality, and order management to provide a seamless online shopping experience."
+      },
+      "healthyCare": {
+        "title": "Healthy Care",
+        "desc": "Healthy Care is a web application developed during a bootcamp, featuring user authentication, appointment scheduling, and health record management to facilitate better healthcare services."
+      }
+    }
+  },
+  "skill": {
+    "name": "My Skills",
+    "title": "Tech Stack",
+    "subtitle": "Technologies and tools I work with"
+  },
+  "freelance": {
+    "name": "Freelance",
+    "title": "Hire Me On",
+    "subtitle": "Do you need web or app development services? Contact me through the following freelance platforms."
+  },
+  "contact": {
+    "name": "Get in Touch",
+    "title": "Let's Work Together",
+    "subtitle": "Have an interesting project or would like to collaborate? Don't hesitate to contact me. I'm always open to discussing new ideas and collaboration opportunities!"
+  }
+}

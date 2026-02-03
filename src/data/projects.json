@@ -1,0 +1,49 @@
+[
+  {
+    "key": "rentalLaptop",
+    "year": 2021,
+    "by": "Personal",
+    "type": "web",
+    "tags": ["PHP", "Codeigniter", "MySQL", "Tailwind CSS"],
+    "image": "https://ik.imagekit.io/vianz/rental.jpg",
+    "github": "https://github.com/AuxoaZ/rental-laptop"
+  },
+  {
+    "key": "healthyCare",
+    "year": 2023,
+    "by": "Bootcamp",
+    "type": "web",
+    "tags": ["React.js", "Express.js", "MySQL"],
+    "image": "https://ik.imagekit.io/vianz/healthycare.png",
+    "url": "https://healthy-care.netlify.app/",
+    "github": "https://github.com/FE-34-dan-BE-16-Skilvul/BE-healthy-care"
+  },
+  {
+    "key": "dmens",
+    "year": 2024,
+    "by": "Freelance",
+    "type": "web",
+    "tags": ["React.js", "Express.js", "MySQL", "Tailwind CSS"],
+    "image": "https://ik.imagekit.io/vianz/d'mens.jpg",
+    "github": "https://github.com/AuxoaZ/dmens-frontend"
+  },
+  {
+    "key": "bribox",
+    "year": 2024,
+    "by": "Professional",
+    "type": "web",
+    "tags": ["React.js", "Tailwind CSS"],
+    "image": "https://ik.imagekit.io/vianz/bribox.png",
+    "url": "https://bribox.netlify.app/",
+    "github": "https://github.com/AuxoaZ/bribox-sticker-v2.1"
+  },
+  {
+    "key": "equatorCell",
+    "year": 2025,
+    "by": "Freelance",
+    "type": "web",
+    "tags": ["React.js", "Express.js", "MySQL", "Tailwind CSS"],
+    "image": "https://ik.imagekit.io/vianz/equatorcell.png",
+    "github": "https://github.com/AuxoaZ/equator-cell"
+  }
+]

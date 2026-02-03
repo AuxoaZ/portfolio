@@ -1,0 +1,65 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "Tentang",
+    "projects": "Portfolio",
+    "skills": "Skill",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "desc": "Saya seorang software Engineer dengan minat yang tinggi dalam menciptakan web modern. Komitmen terhadap detail dan kualitas adalah prioritas utama dalam setiap proyek.",
+    "cta": {
+      "viewProjects": "Lihat Portfolio",
+      "getInTouch": "Hubungi Saya",
+      "downloadCV": "Unduh CV"
+    }
+  },
+  "about": {
+    "name": "Tentang Saya",
+    "title": "Imagining the Future, Building it in Code",
+    "descFirst": "Mengembangkan solusi digital melalui teknologi modern dan desain yang cermat, dengan fokus pada pembangunan produk yang bermakna dan dapat diskalakan. Saya senang mengubah ide-ide kompleks menjadi pengalaman digital yang bersih, fungsional, dan intuitif.",
+    "descSecond": "Berfokus pada penyampaian hasil yang optimal dan efisien dengan penekanan kuat pada pengalaman pengguna dan kinerja. Komitmen terhadap detail, kualitas, dan peningkatan berkelanjutan adalah inti dari setiap proyek yang saya kerjakan.",
+    "info": {
+      "experience": "Tahun Pengalaman",
+      "projects": "Proyek",
+      "skills": "Skill"
+    }
+  },
+  "portfolio": {
+    "name": "Portfolio",
+    "title": "Featured Projects",
+    "subtitle": "Ini beberapa proyek yang telah saya kerjakan, mulai dari aplikasi web hingga pengembangan chat bot.",
+    "viewGithub": "Lihat semua di GitHub →",
+    "BtnGithub": "Lihat Proyek Lainnya →",
+    "filters": {
+      "all": "Semua Proyek",
+      "web": "Web",
+      "chatBot": "Chat Bot"
+    },
+    "items": {
+      "olx": {
+        "title": "OLX Indonesia",
+        "desc": "AI Chat Dashboard – Jolly UI redesign A modern AI chat dashboard designed with a clean, minimal, and productivity-focused interface. The layout highlights a seamless conversation flow, quick navigation, and an organized chat history panel. The design emphasizes clarity, accessibility, and a smooth user experience for both casual and professional use. This concept includes: - Intuitive sidebar navigation - Smart chat input with model selector - Recent chats & history management - Responsive, uncluttered layout - Consistent visual hierarchy & spacing Crafted in Figma with a focus on usability and modern SaaS aesthetics."
+      },
+      "rentalLaptop": {
+        "title": "Rental Laptop",
+        "desc": "Laptop Rental Web Application is a system I built using CodeIgniter with separate user and admin pages, featuring laptop catalog browsing, cart and rental management, and an admin dashboard for managing products, orders, and inventory to streamline the rental workflow and data management."
+      }
+    }
+  },
+  "skill": {
+    "name": "Skill Saya",
+    "title": "Tech Stack",
+    "subtitle": "Teknologi dan alat yang saya gunakan"
+  },
+  "freelance": {
+    "name": "Freelance",
+    "title": "Hire Me On",
+    "subtitle": "Apakah kamu membutuhkan jasa pengembangan web atau aplikasi? Hubungi saya melalui platform freelance berikut."
+  },
+  "contact": {
+    "name": "Hubungi Saya",
+    "title": "Lets Work Together",
+    "subtitle": "Apakah kamu memiliki proyek menarik atau ingin bekerja sama? Jangan ragu untuk menghubungi saya. Saya selalu terbuka untuk mendiskusikan ide-ide baru dan peluang kolaborasi!"
+  }
+}
