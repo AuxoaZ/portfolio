@@ -35,19 +35,19 @@ export function About() {
               </div>
               <div className="grid grid-cols-3 gap-4">
                 <div>
-                  <p className="text-5xl text-primary font-bold">5+</p>
+                  <p className="text-5xl text-primary font-bold">3+</p>
                   <p className="text-sm text-base-content/70">
                     {t("about.info.experience")}
                   </p>
                 </div>
                 <div>
-                  <p className="text-5xl text-primary font-bold">10</p>
+                  <p className="text-5xl text-primary font-bold">5</p>
                   <p className="text-sm text-base-content/70">
                     {t("about.info.projects")}
                   </p>
                 </div>
                 <div>
-                  <p className="text-5xl text-primary font-bold">30</p>
+                  <p className="text-5xl text-primary font-bold">10</p>
                   <p className="text-sm text-base-content/70">
                     {t("about.info.skills")}
                   </p>
